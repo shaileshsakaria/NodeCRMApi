@@ -1,0 +1,11 @@
+﻿{
+    "responseStatus": "Ok",
+    "recordDuplicate": "duplicate",
+    "refExistsStatus": "reference",
+    "notExistsStatus": "notexist",
+    "errorStatus": "error",
+    "secretKey": "CRM",
+    "Messages": {
+        "NotValidCredentials": "Username or Password does not match or does not exist."
+    }
+}
